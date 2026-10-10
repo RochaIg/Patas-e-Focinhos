@@ -5,8 +5,13 @@ Objeto de análise: Patas & Focinhos® Petshop e Spa
 
 Integrantes do Grupo:
 
+
 Igor Rocha dos Santos
+
 Gabriella Cristina Ramalho Sobrinho
+
 Saufi Phatar Micilien 
+
 João
+
 Rodrigo Kelis
