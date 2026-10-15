@@ -8,7 +8,8 @@ _Objeto de análise:_  **Patas & Focinhos® Petshop e Spa**
 
 <ins>**Integrantes do Grupo**:</ins>
 >Igor Rocha dos Santos / RA: \
-Gabriella Cristina Ramalho Sobrinho / RA: \
-Saufi Phatar Micilien / RA: \
+Gabriella Cristina Ramalho Sobrinho / RA: 3026105485 \
+Saufi Phatar Micilien / RA: 3026103388 \
 João / RA: \
+Guillaume / RA: \
 Rodrigo Kelis / RA:
