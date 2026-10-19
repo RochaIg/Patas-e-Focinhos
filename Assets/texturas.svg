@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160">
+  <g fill="#3159A6" fill-opacity="0.05">
+    <!-- Textura de patinha -->
+    <g transform="translate(18,22) rotate(-18) scale(0.62)">
+      <ellipse cx="32" cy="42" rx="16" ry="14" />
+      <ellipse cx="12" cy="22" rx="7" ry="9" />
+      <ellipse cx="30" cy="12" rx="7" ry="9" />
+      <ellipse cx="49" cy="16" rx="7" ry="9" />
+      <ellipse cx="55" cy="34" rx="6.5" ry="8.5" />
+    </g>
+    <!-- Textura de osso -->
+    <g transform="translate(96,92) rotate(24) scale(0.5)">
+      <rect x="14" y="12" width="36" height="8" rx="4" />
+      <circle cx="10" cy="10" r="7" />
+      <circle cx="10" cy="22" r="7" />
+      <circle cx="54" cy="10" r="7" />
+      <circle cx="54" cy="22" r="7" />
+    </g>
+  </g>
+</svg>
