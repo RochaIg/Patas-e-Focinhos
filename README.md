@@ -2,7 +2,7 @@
 
 # 🐾 Projeto Patas & Focinhos Spa Pet 🐾
 
-![Semestre](https://img.shields.io/badge/Semestre-2026.2-blue?style=flat-square)
+![UNINOVE](https://img.shields.io/badge/UNINOVE-2º_sem:2026-005596?style=flat-square)
 ![Licença](https://img.shields.io/badge/Projeto-Extensão_Universitária-orange?style=flat-square)
 
 **Professor:** Daniel Ferreira de Barros Junior
@@ -36,11 +36,19 @@ bem-estar e hospedagem pet, oferecendo uma experiência para conhecer os serviç
 ### 🛠️ Tecnologias Utilizadas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+---
+### ⚙️ Recursos de Apoio
 
+<mark>**Elfsight:**</mark> Utilizado para colocar widgets interativos na interface. 
+
+<mark>**Shape Divider:**</mark> Usado para criar divisórias fluidas entre as seções do site. 
+
+ <mark>**Font Awesome:**</mark> Utilizado para implementar os ícones.
+ 
 ---
 
-**Integrantes do Grupo:**
+<ins>**Desenvolvedores:**</ins>
 
 | Nome Completo | RA |
 | :--- | :---: |
