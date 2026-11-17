@@ -2,8 +2,8 @@
 
 # 🐾 Projeto Patas & Focinhos Spa Pet 🐾
 
-![UNINOVE](https://img.shields.io/badge/UNINOVE-2º_sem:2026-005596?style=flat-square)
-![Licença](https://img.shields.io/badge/Projeto-Extensão_Universitária-orange?style=flat-square)
+[![UNINOVE](https://img.shields.io/badge/UNINOVE-2º_sem:2026-005596?style=flat-square)](https://www.uninove.br/)
+[![Licença](https://img.shields.io/badge/Projeto-Extensão_Universitária-orange?style=flat-square)](https://www.uninove.br/)
 
 **Professor:** Daniel Ferreira de Barros Junior
 
@@ -35,8 +35,8 @@ bem-estar e hospedagem pet, oferecendo uma experiência para conhecer os serviç
 
 ### 🛠️ Tecnologias Utilizadas
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 ---
 ### ⚙️ Recursos de Apoio
 
